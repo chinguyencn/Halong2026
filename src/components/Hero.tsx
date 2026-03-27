@@ -11,12 +11,12 @@ export default function Hero() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8 }}
         >
-          <h1 className="text-3xl md:text-5xl lg:text-6xl font-serif italic mb-4 text-gold text-shadow">
+          <h1 className="text-4xl md:text-6xl lg:text-7xl font-serif font-bold italic mb-4 text-gold text-shadow-lg">
             Hạ Long 2026
           </h1>
           
           <div className="flex justify-center">
-            <h2 className="text-2xl md:text-3xl lg:text-4xl font-sans font-bold text-white uppercase tracking-[0.4em] text-shadow">
+            <h2 className="text-3xl md:text-4xl lg:text-5xl font-serif font-bold text-white uppercase tracking-normal text-shadow">
               CHIẾN LƯỢC & TẦM NHÌN
             </h2>
           </div>

@@ -17,7 +17,7 @@ export default function App() {
         <img 
           src="https://images.unsplash.com/photo-1504457047772-27faf1c00561?q=80&w=2070&auto=format&fit=crop" 
           alt="Ha Long Bay Aerial Background" 
-          className="w-full h-full object-cover"
+          className="w-full h-full object-cover" 
           referrerPolicy="no-referrer"
           loading="eager"
           fetchPriority="high"
